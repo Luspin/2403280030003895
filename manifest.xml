@@ -28,7 +28,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-		<SourceLocation DefaultValue="PUT YOUR HTTPS URL WHERE ADD_IN JS FILES ARE HOSTED LIKE => https://punedlp.abc.net/AddinFolder/commands.html"/>
+		<SourceLocation DefaultValue="https://luspin.github.io/2403280030003895/commands.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -60,7 +60,7 @@
     </Hosts>
     <Resources>
       <bt:Urls>
-		<bt:Url id="Commands.Url" DefaultValue="PUT YOUR HTTPS URL WHERE ADD_IN JS FILES ARE HOSTED LIKE => https://punedlp.abc.net/AddinFolder/commands.html"/>
+		<bt:Url id="Commands.Url" DefaultValue="https://luspin.github.io/2403280030003895/commands.html"/>
       </bt:Urls>
     </Resources>
 	<EquivalentAddins>
